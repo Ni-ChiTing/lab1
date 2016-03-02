@@ -1,0 +1,31 @@
+Script started on 2016年03月02日 (週三) 19時56分06秒
+]0;F74044088@2015cpp: ~[01;32mF74044088@2015cpp[00m:[01;34m~[00m$ shoaml;pwd
+shoaml: command not found
+/home/F74044088
+]0;F74044088@2015cpp: ~[01;32mF74044088@2015cpp[00m:[01;34m~[00m$ shoaml;pwd[1Phoaml;pwdwhoaml;pwd
+No command 'whoaml' found, did you mean:
+ Command 'whoami' from package 'coreutils' (main)
+whoaml: command not found
+/home/F74044088
+]0;F74044088@2015cpp: ~[01;32mF74044088@2015cpp[00m:[01;34m~[00m$ whoaml;pwd[C[C[C[C[C[C[1P;pwdi;pwd
+F74044088
+/home/F74044088
+]0;F74044088@2015cpp: ~[01;32mF74044088@2015cpp[00m:[01;34m~[00m$ git config -l
+user.name=Ni-ChiTing
+user.email=dfdf22222@gmail.com
+]0;F74044088@2015cpp: ~[01;32mF74044088@2015cpp[00m:[01;34m~[00m$ git vo[Klone [1P[1@c[C[C[C[C[Chttps://github.com/<your githubaccount>/lab1.git[C[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.git[1P/lab1.gitd/lab1.gitf/lab1.gitd/lab1.gitf/lab1.git2/lab1.git2/lab1.git2/lab1.git2/lab1.git2/lab1.git@/lab1.gitg/lab1.gitm/lab1.gita/lab1.giti/lab1.gitl/lab1.git./lab1.gitc/lab1.gito/lab1.gitm/lab1.git
+Cloning into 'lab1'...
+error: The requested URL returned error: 403 while accessing https://github.com/dfdf22222@gmail.com/lab1.git/info/refs
+fatal: HTTP request failed
+]0;F74044088@2015cpp: ~[01;32mF74044088@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/dfdf22222@gmail.com/lab1.git<dfdf22222@gmail.com/lab1.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C>/lab1.git
+bash: dfdf22222@gmail.com: No such file or directory
+]0;F74044088@2015cpp: ~[01;32mF74044088@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/<dfdf22222@gmail.com>/lab1.git[C[C[C[C[1P/lab1.git[C[C[C[C[C[1Pdfdf22222@gmail.com/lab1.git
+Cloning into 'lab1'...
+error: The requested URL returned error: 403 while accessing https://github.com/dfdf22222@gmail.com/lab1.git/info/refs
+fatal: HTTP request failed
+]0;F74044088@2015cpp: ~[01;32mF74044088@2015cpp[00m:[01;34m~[00m$ git clone https://github.com/dfdf22222@gmail.com/lab1.git[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K^M[K[K https://github.com/Ni-ChiTing/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74044088@2015cpp: ~[01;32mF74044088@2015cpp[00m:[01;34m~[00m$ exit
+
+Script done on 2016年03月02日 (週三) 20時01分31秒
